@@ -1,0 +1,29 @@
+#admin {
+  padding: 87px 0;
+  .admin {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    h1 {
+        font-size: 35px;
+    }
+    input {
+      padding: 10px 10px;
+      border: none;
+      outline: none;
+      font-size: 20px;
+      border-bottom: 1px solid gray;
+    }
+    button {
+        width: 130px;
+        height: 40px;
+        border-radius: 10px;
+        border: none;
+        font-size: 17px;
+        background: #2F2F2F;
+        color: white;
+    }
+
+  }
+}
