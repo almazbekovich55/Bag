@@ -11,10 +11,11 @@ const Header = () => {
         <div className="header">
           <h1>Bag</h1>
           <div className="header--nav">
-            <NavLink to={"/"}>home</NavLink>
-            <NavLink to={"/feature"}>feature</NavLink>
-            <NavLink to={"/about"}>About</NavLink>
-            <NavLink to={"/product"}>Product</NavLink>
+            <NavLink to={"/"}>q</NavLink>
+            <NavLink to={"/feature"}>w</NavLink>
+            <NavLink to={"/about"}>e</NavLink>
+            <NavLink to={"/product"}>r</NavLink>
+            <NavLink to={"/product"}>kuba jindi</NavLink>
             <button onClick={() => nav("/admin")}>Admin</button>
           </div>
         </div>
