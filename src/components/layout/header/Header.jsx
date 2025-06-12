@@ -15,6 +15,12 @@ const Header = () => {
             <NavLink to={"/feature"}>w</NavLink>
             <NavLink to={"/about"}>e</NavLink>
             <NavLink to={"/product"}>r</NavLink>
+            <NavLink to={"/product"}>r</NavLink>
+            <NavLink to={"/product"}>r</NavLink>
+            <NavLink to={"/product"}>kuba jindi</NavLink>
+            <NavLink to={"/product"}>kubanych Aseda</NavLink>
+            <NavLink to={"/product"}>kubanych Aseda</NavLink>
+            <NavLink to={"/product"}>kubanych Aseda</NavLink>
             <NavLink to={"/product"}>kuba jindi</NavLink>
             <button onClick={() => nav("/admin")}>Admin</button>
           </div>
